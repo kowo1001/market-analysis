@@ -7,4 +7,10 @@ market-analysis-project
 -how?
 
 -process
+<<<<<<< HEAD
 -- data-collecting
+=======
+
+--data-collecting
+--data-loading
+>>>>>>> ff2847bfd9a042697555ef37e2977d615dfeaf2d
